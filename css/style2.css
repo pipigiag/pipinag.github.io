@@ -1,0 +1,24 @@
+body { background-image: url("../img/fireworks.gif");
+background-repeat: no-repeat;
+background-size: cover;
+	font-size: 14px; margin-left: 125px;
+
+}
+head { font-size: 80px; margin-right: 100px;}
+.img {transform: rotate(810deg);
+	width: 100px;
+height: 100px;}
+.card-title { width: 85px; margin-right: 300px;
+font-size:25px;}
+.progress-success {shape-image-threshold: 30;}
+
+p {
+	height: 50px;
+}
+
+.jumbotron {
+    background-color: rgba(255, 228, 196, 0);
+}
+.card {
+	background-color: rgba(255, 228, 196, 0);
+}
